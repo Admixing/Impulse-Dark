@@ -1,0 +1,10 @@
+To fix the currently online like in the previews do the following:
+
+1. In the Admin CP go to Languages and choose your language.
+
+2. Open the index.lang.ph file and scroll to the bottom.
+
+3. You'll see 'online_note' in the text box replace with;
+{1} users currently active.
+
+4. Save and done.

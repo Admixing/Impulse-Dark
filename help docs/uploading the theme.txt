@@ -1,0 +1,9 @@
+1. Log into the Admin CP and go to 'Templates & Styles'.
+
+2. Click 'Import Theme' on the right hand side.
+
+3. Import the themes xml file in the 'upload' folder.
+
+4. Name it and check the 'Ignore Version Compatibility' box.
+
+5. Save and now activate the theme.
