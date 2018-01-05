@@ -1,2 +1,7 @@
 27/09/2017
-This is the official release, there is nothing to display here.
+This is the official build, there is nothing to display here.
+
+05/01/2018
+Altered the header layout and added drop down menus to it.
+Modified the signatures to have a scroll bar if too big.
+Minor changes to the layout of the general postbit.
